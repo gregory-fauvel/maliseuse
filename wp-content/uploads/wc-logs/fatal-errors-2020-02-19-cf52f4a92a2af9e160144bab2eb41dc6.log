@@ -1,0 +1,8 @@
+2020-02-19T14:14:05+00:00 CRITICAL Uncaught Error: Call to undefined function et_pb_is_pagebuilder_used() in C:\wamp64\www\wordpress\wp-content\plugins\supreme-modules-for-divi\includes\templates\page-template-blank.php:8
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown dans C:\wamp64\www\wordpress\wp-content\plugins\supreme-modules-for-divi\includes\templates\page-template-blank.php à la ligne 8
+
